@@ -1,4 +1,5 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/cloudfoundry/gorouter)](https://goreportcard.com/report/github.com/cloudfoundry/gorouter)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fosis1ty%2Fgorouter.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fosis1ty%2Fgorouter?ref=badge_shield)
 
 # GoRouter
 This repository contains the source code for the Cloud Foundry L7 HTTP router. GoRouter is deployed by default with Cloud Foundry ([cf-release](https://github.com/cloudfoundry/cf-release)) which includes [routing-release](https://github.com/cloudfoundry/routing-release) as submodule.
@@ -439,3 +440,7 @@ Refer [doc](https://docs.pivotal.io/pivotalcf/1-9/adminguide/troubleshooting_slo
 Please read the [contributors' guide](https://github.com/cloudfoundry/gorouter/blob/master/CONTRIBUTING.md)
 Please read our [Development Guide for Gorouter](https://github.com/cloudfoundry/gorouter/blob/master/docs/gorouter_development_guide.md)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fosis1ty%2Fgorouter.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fosis1ty%2Fgorouter?ref=badge_large)
